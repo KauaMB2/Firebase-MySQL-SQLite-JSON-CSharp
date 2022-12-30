@@ -1,0 +1,17 @@
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\bin\Debug\net6.0\Serializacao e deserializacao.exe
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\bin\Debug\net6.0\Serializacao e deserializacao.deps.json
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\bin\Debug\net6.0\Serializacao e deserializacao.runtimeconfig.json
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\bin\Debug\net6.0\Serializacao e deserializacao.dll
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\bin\Debug\net6.0\Serializacao e deserializacao.pdb
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.csproj.CopyComplete
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.dll
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\refint\Serializacao e deserializacao.dll
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.pdb
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\Serializacao e deserializacao.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\ETE Escola Kauã\ChatGPT\Serializacao e deserializacao\obj\Debug\net6.0\ref\Serializacao e deserializacao.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nLxp56aDtGPES6KlgIJmWAUljZYaGBfh4acgw0e15p5dmm6lrOnydi7kHsXFNvcXcy7/rI9htpWR8EtFuvpU9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\ETE Escola Kauã\\ChatGPT\\Serializacao e deserializacao\\Serializacao e deserializacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
